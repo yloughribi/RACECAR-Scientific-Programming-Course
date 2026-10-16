@@ -1,0 +1,19 @@
+# Data downloaded from the public S3 bucket (over 1 GB, recreated by the notebook)
+data/raw_mit/
+data/*.tar
+data/*.zip
+
+# Rendered videos (too large for GitHub; see README for the link)
+videos/
+
+# Python / Jupyter
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

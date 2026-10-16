@@ -1,0 +1,10 @@
+boto3
+pandas
+numpy
+matplotlib
+imageio-ffmpeg
+scipy
+pillow
+opencv-python
+scikit-learn
+torch
